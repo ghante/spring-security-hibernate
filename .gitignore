@@ -1,6 +1,12 @@
+out
 *.class
-
 # Package Files #
 *.jar
 *.war
 *.ear
+
+*.iml
+*.ipr
+*.iws
+
+.DS_Store
